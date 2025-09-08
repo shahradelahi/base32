@@ -1,6 +1,6 @@
 # @se-oss/base32
 
-[![CI](https://github.com/shahradelahi/@se-oss/base32/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/shahradelahi/@se-oss/base32/actions/workflows/ci.yml)
+[![CI](https://github.com/shahradelahi/base32/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/shahradelahi/base32/actions/workflows/ci.yml)
 [![NPM Version](https://img.shields.io/npm/v/@se-oss/base32.svg)](https://www.npmjs.com/package/@se-oss/base32)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](/LICENSE)
 [![Install Size](https://packagephobia.com/badge?p=@se-oss/base32)](https://packagephobia.com/result?p=@se-oss/base32)
