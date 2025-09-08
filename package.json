@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/base32",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple base32 (RFC 4648 and Crockford) encoder and decoder.",
   "keywords": [
     "base32",
