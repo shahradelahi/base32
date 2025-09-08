@@ -1,7 +1,7 @@
 import { describe, expect, test } from 'vitest';
 
+import { Base32, decode, encode } from './base32';
 import { InvalidCharacterError } from './errors';
-import { Base32, decode, encode } from './index';
 
 describe('base32', () => {
   describe('RFC 4648 Test Vectors', () => {
